@@ -5,6 +5,7 @@
   "dependencies": {
     "axios": "^0.17.1",
     "prop-types": "^15.6.0",
+    "pubsub-js": "^1.6.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
   },
